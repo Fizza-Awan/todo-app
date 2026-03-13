@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "auth": {
+      "todoapp2249b7cb": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "storage": {
+      "fizzatodoapp": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

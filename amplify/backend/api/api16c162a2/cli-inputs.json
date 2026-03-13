@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "paths": {
+    "/todo": {
+      "name": "/todo",
+      "lambdaFunction": "todoappddf33506",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/graphql": {
+      "name": "/graphql",
+      "lambdaFunction": "todoappddf33506",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
